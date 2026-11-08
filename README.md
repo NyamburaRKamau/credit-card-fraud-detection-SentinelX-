@@ -50,10 +50,6 @@ Include screenshots (after uploading):
 
 🏁 How to Run
 
-# Clone repository
-
-git clone https://github.com/roseemaryy/fraud-detection-system.git
-
 # Navigate to folder
 
 cd fraud-detection-system
@@ -70,8 +66,3 @@ python main.py
 Kaggle - Credit Card Fraud Detection Dataset
 
 ⸻
-
-👤 Author
-Nyambura Kamau
-AI/ML & Product Management Enthusiast | Data-Driven Problem Solver
-📧 kamaurosemary.n@gmail.com
